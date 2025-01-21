@@ -1,4 +1,4 @@
-package Nivel2Ejercicio1;
+package Nivel2Ejercicio1.Model;
 
 public class Smartphone extends Phone implements Camera, Clock {
     public Smartphone(String brand, String model) {

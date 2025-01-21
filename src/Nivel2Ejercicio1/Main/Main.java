@@ -1,4 +1,6 @@
-package Nivel2Ejercicio1;
+package Nivel2Ejercicio1.Main;
+
+import Nivel2Ejercicio1.Model.Smartphone;
 
 public class Main {
     public static void main(String[] args) {

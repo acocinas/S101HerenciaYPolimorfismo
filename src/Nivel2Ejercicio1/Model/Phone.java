@@ -1,4 +1,4 @@
-package Nivel2Ejercicio1;
+package Nivel2Ejercicio1.Model;
 
 public class Phone {
     private String brand, model;

@@ -1,4 +1,4 @@
-package Nivel1Ejercicio2;
+package Nivel1Ejercicio2.Model;
 
 public class Car {
     private static final String BRAND = "MiCoche";
