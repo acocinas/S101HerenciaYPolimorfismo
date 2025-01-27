@@ -10,6 +10,8 @@ Entorno de Desarrollo utilizado ha sido el IDE: IntelliJ
 
 No se han usado herramientas de construcción adicionales sino que son proyectos en Java independientes.
 
+_____________________________
+_____________________________
 Descripción de los Ejercicios
 
 Nivel 1
@@ -34,7 +36,7 @@ Percusión: "Está sonando un instrumento de percusión"
 Demostrar la carga de la clase mediante la creación de una instancia o el acceso a un miembro estático.
 
 Investigar y demostrar el uso de bloques de inicialización y estáticos en Java.
-
+---------------------------
 Ejercicio 2: Clase Coche
 
 Objetivo:
@@ -57,6 +59,8 @@ acelerar(): método de instancia, imprime "El vehículo está acelerando".
 frenar(): método estático, imprime "El vehículo está frenando".
 
 Demostrar cómo llamar a ambos métodos desde la función main().
+
+-------------------------------------------------
 
 Nivel 2
 
@@ -82,7 +86,8 @@ Crear una clase Smartphone que extienda Teléfono e implemente ambas interfaces.
 Instanciar Smartphone en main() y llamar a todos los métodos.
 
 
-
+_______________________________
+_______________________________
 Cómo Ejecutar los Ejercicios
 
 Clonar el repositorio.
